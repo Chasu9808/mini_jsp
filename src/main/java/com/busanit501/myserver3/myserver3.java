@@ -12,7 +12,7 @@ public class myserver3 extends HttpServlet {
     private String message;
 
     public void init() {
-        message = "myserver31";
+        message = "myserver311";
     }
 
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
